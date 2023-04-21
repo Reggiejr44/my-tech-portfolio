@@ -119,12 +119,24 @@ nav ul {
 
 .heading {
     max-width: 1500px;
-    max-width: 900px;
     margin-top: 25px;
     margin-bottom: 25px;
     color: var(--newwhite);
     font-size: 20px;
     font-family: sans-serif;
+    text-align: center;
+    padding-left: 25%;
+}
+
+.heading-pic {
+    max-width: 1500px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    color: var(--newwhite);
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    padding-left: 25%;
 }
 
 .text-block {
